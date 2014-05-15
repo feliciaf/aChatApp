@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/feliciaf730/Documents/aChatApp/.metadata/.plugins/org.eclipse.jdt.core
+1377251446.index
+2816929257.index
+1781121459.index
+1760795573.index
